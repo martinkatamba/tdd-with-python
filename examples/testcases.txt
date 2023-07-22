@@ -1,0 +1,8 @@
+can call fizzBuzz()
+get "1" when fizzBuzz(1)
+get "2" when fizzBuzz(2)
+get "Fizz" when fizzBuzz(3)
+get "Buzz" when fizzBuzz(5)
+get "Fizz" when fizzBuzz(6) 6 a multiple of 3
+get "Buzz" when fizzBuzz(10) 10 a multiple of 5
+get "FizzBuzz" when fizzBuzz(15) 15 a multiple of 3 and 5
